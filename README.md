@@ -26,4 +26,4 @@ This project was developed to improve frontend development skills and practice b
 Add your live website link here
 
 ## 📁 GitHub Repository
-GitHub repository link here 
+GitHub repository link here  https://povijayraj.github.io/Greenden-Tailwindcss-project/
